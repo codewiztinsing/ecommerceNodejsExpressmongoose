@@ -1,0 +1,5 @@
+* authentication is somehow similar to creating user.
+* passport is authentication middleware for nodejs.
+* middleware is route handler for all kind of http request get,post,put,delete .
+* middleware run if next called in route handler accordingly.
+
